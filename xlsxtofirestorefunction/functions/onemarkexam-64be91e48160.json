@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "onemarkexam",
+  "private_key_id": "64be91e481609a71bf8eeae8d2903af8e77b134b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZBbxD7fpiI41u\nZJ+OY7Iirw43xtx1X9XknE2l64dp4Y5dxSGnbwFQ1brGdDGHcC09m3DgUtZdBFjb\nlkpP0CNXBwpiKZy4SlZFoE+KYMcIBK+sR3/GgYOgCsVK3MhUoDSFfxO+huxViW/+\naXvLITdOKDjln7dm4UkZoH1Rx4sb2Xi552Gg97vqq6DznS1BtV/H6yTUT0ktZggR\n7t1FsFBM+JD3VFjtoFRSN0WbUi+/blD5zv212VNlAp0CyNBW0NhdjgYtEMXII+fu\nRB3J5F9x2Fz9p+p0Or29f2YAzSxLBvREJLt5Rq7IGOurTALxEB12J7M9wnrzskdD\nmoBcOIFTAgMBAAECggEAD4VQfI81e/VM9RsvKhDJOZ/JZYXMWHydIHdpOjeI/LKL\n6vrhOEdBEdXnQLAopqYIJkLKpNBn0kkwTawG7oRVMrEnNfQB6FAwsVQQvDXFpjYn\nliua4Mh8cGK0z3DQxvSaLP30nIiruEZXAxvqJZHfkbBguVNd23a7MqD+tW2O7lPS\njmOqwIHRXg8umgXgANMzJE3MjBEWOfYjlyko9S13PPV7GMphjIo8xs+M4AJeocQa\nbjAIdwKF3mRKqr83FFfWnsb5ZR+HCn//Wn+pAoQCktGcjLcO6tERgiD27fTJ3vif\n/2cUeQMHfA4G2FR7HLDYQAEgSUtc5BNNmurlyWDRSQKBgQDtSH2fMgpHL7KnihPq\n25S1DN1PAg7wk4bcRrqJomlMwPd1jeTaIkj2cqnbI/DCcyFiGI6Z9jnRB9Z12FfC\n/pLhEfqoSsS7xUiJeEtaciu+3i9iy5dAHUYJWvTKc4Sgc6g+mfUxxpatmvFrG6Kb\n+9qN633KYpQrPnaaSQzJDM1W9QKBgQDqJB1k6nHqDxxU1WIKmDPJEki5C1kuiqrs\nzS8voBYbZGu4e1MTJO2pTLffRCJqgUuqiRIlbPwmY9PGptDdFeJfJbEt7EvrwCox\nQ4C8q2WL8KqYhMeo3y1FtzrcR6jLbl1mhSZQZcGelY7m1+ey0IHr6TBdt9yJTqXR\nc8fY1NH6JwKBgFkzYC5BhIWgU7wR90zaATxSuruh3XXpL9CNMkDdclJtVFm33ul1\n7BHhpyL/jtm6qDkVXD5axv9iv+eLTeq7AwJjXOR5Px4Lmyo6s7ErrHBTXGL6gECV\nAKgxrkaRSLF86SmnfPqaWjinP8xxFh8nfdDOT3qOtn7PO4zim1DVZDglAoGAX0+w\nP4JIONVJ3Sa3sERg4Dr3K4x5Ez8TcS3dRW/PT/tC9mgNWz+vFznJp7Mep2hWmucN\nYfrJcf81GCqT30unSMAZLe6AwUkKY99sqmDDB4JCj6+NbyraTQTXixAIoDcfAjq1\nbAjgFmQfNc0x3lKOcLAOJjhQJ/zB909ATP3lNAUCgYAk8R8TpuoPyGCDOZkxaTz/\nlsC+nL/F54t71mvqBkW4j6ZxAKPOZ5Bz5ypLCNsUYizTRD3DoqEMqufIYGFCISKk\n+YzhCUIBciqJ2TXRBKf9BQ5GlY9m/8ZRZPt5IA/lnI8pWHgbZXNvmAuj6aM3OXUk\ncpbHH/1dn3JB1DmAsuGQSQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "xmltojsonv2@onemarkexam.iam.gserviceaccount.com",
+  "client_id": "115631626566884995262",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xmltojsonv2%40onemarkexam.iam.gserviceaccount.com"
+}

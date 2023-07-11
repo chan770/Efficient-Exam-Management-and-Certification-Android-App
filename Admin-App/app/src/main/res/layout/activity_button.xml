@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:padding="32dp"
+    tools:context=".ButtonAct">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Management"
+            android:textColor="@color/white_93"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:text="Question Management"
+            android:textColor="@color/white_87" />
+
+        <com.skydoves.powerspinner.PowerSpinnerView
+            android:id="@+id/spinnerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/round_corner50"
+            app:spinner_divider_color="@color/gray"
+            android:textColor="@color/gray"
+            android:textColorHint="@color/gray"
+            android:textAlignment="center"
+            android:hint="Select the Programing Language"
+            android:padding="10dp"
+            android:textSize="15sp"
+            app:spinner_arrow_gravity="end"
+            app:spinner_arrow_padding="8dp"
+            app:spinner_divider_show="true"
+            app:spinner_divider_size="0.4dp"
+            app:spinner_popup_animation="bounce"
+            app:spinner_popup_elevation="14dp"
+            app:spinner_popup_background="@color/yellow"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/select"
+            tools:ignore="HardcodedText,UnusedAttribute" />
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:text="Mark List"
+            android:textColor="@color/white_87" />
+
+        <com.skydoves.powerspinner.PowerSpinnerView
+            android:id="@+id/spinnerView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/round_corner50"
+            app:spinner_divider_color="@color/gray"
+            android:textColor="@color/gray"
+            android:textColorHint="@color/gray"
+            android:textAlignment="center"
+            android:hint="Select the Programing Language"
+            android:padding="10dp"
+            android:textSize="15sp"
+            app:spinner_arrow_gravity="end"
+            app:spinner_arrow_padding="8dp"
+            app:spinner_divider_show="true"
+            app:spinner_divider_size="0.4dp"
+            app:spinner_popup_animation="bounce"
+            app:spinner_popup_elevation="14dp"
+            app:spinner_popup_background="@color/yellow"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/select"
+            tools:ignore="HardcodedText,UnusedAttribute" />
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/but"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="26dp"
+        android:background="@color/yellow"
+        android:text="Download Question Template"
+        android:textColor="@color/gray" />
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam Admin</string>
+    <string-array name="items_class">
+        <item>Select the Programing Language</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Java</item>
+    </string-array>
+</resources>

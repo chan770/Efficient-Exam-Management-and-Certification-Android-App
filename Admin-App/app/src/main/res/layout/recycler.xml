@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:elevation="100dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/gray"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/regnum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="Reg No."
+            android:padding="5dp"
+            android:textColor="@color/yellow"
+            android:textColorHint="@color/gray"
+            android:textSize="13sp"
+            tools:ignore="HardcodedText,UnusedAttribute" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="Name"
+            android:padding="5dp"
+            android:textColor="@color/yellow"
+            android:textColorHint="@color/gray"
+            android:textSize="13sp"
+            tools:ignore="HardcodedText,UnusedAttribute" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="Time"
+            android:padding="5dp"
+            android:textColor="@color/yellow"
+            android:textColorHint="@color/gray"
+            android:textSize="13sp"
+            tools:ignore="HardcodedText,UnusedAttribute" />
+        <TextView
+            android:id="@+id/marks"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="Marks"
+            android:padding="5dp"
+            android:textColor="@color/yellow"
+            android:textColorHint="@color/gray"
+            android:textSize="13sp"
+            tools:ignore="HardcodedText,UnusedAttribute" />
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>
